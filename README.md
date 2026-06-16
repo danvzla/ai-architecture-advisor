@@ -334,18 +334,6 @@ Run `node build.js` after any change.
 
 ---
 
-## AgentPM Portfolio
-
-This is one of four AI tools built to demonstrate applied AI architecture, multi-agent orchestration, and enterprise consulting automation:
-
-| Tool | Description | Live |
-|------|-------------|------|
-| **AI Architecture Advisor** | 8-agent blueprint wizard — this tool | [danvzla.github.io/ai-architecture-advisor](https://danvzla.github.io/ai-architecture-advisor/) |
-| AI Security Advisor | Cloud network security posture analysis | [danvzla.github.io/ai-security-advisor](https://danvzla.github.io/ai-security-advisor/) |
-| AI SOW Orchestrator | 3-agent SOW generation from discovery notes | [danvzla.github.io/ai-sow-orchestrator](https://danvzla.github.io/ai-sow-orchestrator/) |
-| AI Governance Auditor | RAG-based compliance audit against NIST, OWASP, EU AI Act | [danvzla.github.io/ai-governance-auditor](https://danvzla.github.io/ai-governance-auditor/) |
-
----
 
 ## Author
 
