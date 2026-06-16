@@ -21,5 +21,5 @@ node build.js
 ```
 Upload `dist/index.html` to GitHub as `index.html`.
 
-## Part of AgentPM portfolio
+## Part of AI portfolio
 Built by Daniel Mazzini · Principal Architect & Senior TPM
