@@ -3,7 +3,7 @@
 > **8-agent AI system that converts a 7-step enterprise discovery session into a complete target-state architecture package — the same deliverables a Principal Architect takes a week to produce, in 60 seconds.**
 
 **Live demo:** https://danvzla.github.io/ai-architecture-advisor/
-&nbsp;·&nbsp; Part of the [AgentPM portfolio](https://github.com/danvzla) by Daniel Mazzini
+&nbsp;·&nbsp; Part of the [AI portfolio](https://github.com/danvzla) by Daniel Mazzini
 
 ---
 
