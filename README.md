@@ -1,6 +1,6 @@
 # AI Architecture Advisor
 
-> **8-agent AI system that converts a 7-step enterprise discovery session into a complete target-state architecture package — a structured first-draft target-state architecture package in approximately 60 seconds.**
+> **8-agent AI system that converts a 7-step enterprise discovery session into a complete target-state architecture package, a structured first-draft target-state architecture package in approximately 60 seconds.**
 
 **Live demo:** https://danvzla.github.io/ai-architecture-advisor/
 &nbsp;·&nbsp; Part of the [AI portfolio](https://github.com/danvzla) by Daniel Mazzini
