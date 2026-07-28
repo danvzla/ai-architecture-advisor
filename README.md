@@ -1,6 +1,6 @@
 # AI Architecture Advisor
 
-> **8-agent AI system that converts a 7-step enterprise discovery session into a complete target-state architecture package — the same deliverables a Principal Architect takes a week to produce, in 60 seconds.**
+> **8-agent AI system that Generates a structured first-draft architecture package in approximately 60 seconds, accelerating work that typically requires several days of cross-functional architecture analysis and documentation.**
 
 **Live demo:** https://danvzla.github.io/ai-architecture-advisor/
 &nbsp;·&nbsp; Part of the [AI portfolio](https://github.com/danvzla) by Daniel Mazzini
