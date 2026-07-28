@@ -334,6 +334,39 @@ Run `node build.js` after any change.
 
 ---
 
+## Architecture and Governance
+
+The application separates discovery, agent orchestration, deterministic calculations, structured outputs, and human review. Eight agents run sequentially, while financial calculations are completed by deterministic JavaScript functions before the value narrative is generated. The application does not approve investments, architectures, controls, or implementation plans on behalf of an organization.
+
+## Deterministic vs. AI-Generated Outputs
+
+**Deterministic:** TCO, ROI, NPV, payback, cost-of-inaction calculations, readiness scoring, scenario structure, pipeline order, required fields, and export formatting.
+
+**AI-generated:** problem framing, architecture recommendations, ADR drafts, governance narratives, roadmap explanations, and executive summaries.
+
+## Validation and Quality Controls
+
+Current controls include required-field validation, structured agent schemas, sequential context chaining, deterministic financial calculations, JSON parsing and repair, and human inspection of final outputs.
+
+## Security and Data Handling
+
+> **Security note:** Do not enter production or long-lived API credentials into the public browser demonstration. Demo Mode requires no API key.
+
+Do not submit confidential customer, employee, financial, security, or regulated data. Production deployment requires a secure backend, managed secrets, authentication, authorization, encryption, audit logging, and data-retention controls.
+
+## Testing
+
+Current testing is primarily functional and manual: wizard behavior, scenario loading, pipeline sequencing, calculations, result rendering, export, provider switching, and responsive behavior. Production use requires automated unit, schema, prompt-regression, adversarial, accessibility, performance, and security testing.
+
+## Limitations
+
+The application creates structured first-draft decision-support artifacts. Recommendations depend on user inputs and may be incomplete or inaccurate. Demo scenarios and financial figures are illustrative. Enterprise identity, persistent storage, approval workflows, observability, and production integrations are not included.
+
+## Disclaimer
+
+This project is provided for demonstration and educational purposes and does not constitute architecture, financial, legal, compliance, security, procurement, or investment advice.
+
+---
 
 ## Author
 
