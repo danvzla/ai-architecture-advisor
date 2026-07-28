@@ -1,6 +1,6 @@
 # AI Architecture Advisor
 
-> **8-agent AI system that Generates a structured first-draft architecture package in approximately 60 seconds, accelerating work that typically requires several days of cross-functional architecture analysis and documentation.**
+> **8-agent AI system that converts a 7-step enterprise discovery session into a complete target-state architecture package — a structured first-draft target-state architecture package in approximately 60 seconds.**
 
 **Live demo:** https://danvzla.github.io/ai-architecture-advisor/
 &nbsp;·&nbsp; Part of the [AI portfolio](https://github.com/danvzla) by Daniel Mazzini
@@ -92,7 +92,7 @@ The full blueprint loads in ~8 seconds using a pre-built Telco NOC scenario embe
 Select **Demo** → choose a scenario → click **Quick Demo** or **Start Wizard**.
 
 ### Claude API Mode
-Live generation using Anthropic's `claude-haiku-4-5`. Each of the 8 agents makes an independent API call and results chain forward. Full reasoning grounded in your specific discovery inputs.
+Live generation using Anthropic's `claude-haiku-4-5`. Each of the 8 agents makes an independent API call and results chain forward. Live structured generation grounded in your discovery inputs.
 
 Switch to **Claude** → enter your `sk-ant-...` key → run.
 
@@ -331,6 +331,8 @@ Run `node build.js` after any change.
 | LLM (OpenAI mode) | OpenAI gpt-4o-mini |
 | Hosting | GitHub Pages (static, zero cost) |
 | Build | Node.js build script (no bundler dependencies) |
+
+---
 
 ---
 
